@@ -41,6 +41,10 @@ These are source codes for 1video experiment.
    node app.js
    ```
 
+   ```shell
+   nohup node app.js 1>/dev/null 2>&1 &
+   ```
+
    If you run into any errors regarding modules not found, try removing the "node_modules" folder and go back to step 3.
 
 5. Visit `localhost:3001` on your website, you should see the instruction page.
