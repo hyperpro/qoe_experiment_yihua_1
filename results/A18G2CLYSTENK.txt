@@ -1,0 +1,10 @@
+5,1,4,3,3,3,3,2
+1,2,8,3,7,5,4,6
+42234,28228,28845,32588,52604,30379,29543,28850
+16120,13853,5818,5747,4050,4520,7930,13247
+A18G2CLYSTENK
+Desktop
+32 - 38
+WiFi
+If the pause/drop in quality came at the beginning it was more likely to get a fair marking as that is less annoying compared to say it freezing and dropping quality at the very end. Was not confused by anything in the experiment.
+2,5,3,5,5,5,5,5

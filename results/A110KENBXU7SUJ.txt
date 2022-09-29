@@ -1,0 +1,10 @@
+5,1,3,3,2,4,3,3
+1,2,8,6,7,4,5,3
+56049,28901,35358,27519,27694,31557,28263,28512
+13768,13869,14617,12740,14763,18855,7337,9687
+A110KENBXU7SUJ
+Laptop
+46 - 52
+Cable network
+I felt the degradation towards the middle or end seemed to affect perception about the video more than something in the beginning ("oh it cleared up").  I was unclear a bit about whether or not some stoppage/degradation should result in a much lower rating for some of them than others.  They all seemed to have some issue, albeit some were only minor.
+2,4,5,5,5,5,5,5
