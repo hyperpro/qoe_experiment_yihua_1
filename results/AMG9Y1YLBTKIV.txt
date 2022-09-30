@@ -1,0 +1,10 @@
+5,1,2,3,2,3
+1,2,4,6,5,3
+64496,47974,40147,28540,30271,35360
+19049,10103,6972,103295,18939,9635
+AMG9Y1YLBTKIV
+Laptop
+32 - 38
+WiFi
+If it was messed p for longer, I gave it a lower score.
+2,5,3,3,3,3
