@@ -3,7 +3,7 @@ var getOder = require('../models/random');
 var fs = require('fs');
 
 
-const vid_folder = "xlow_sanity";
+const vid_folder = "xlow_10_3";
 var vid_path = "./videos/" + vid_folder;
 var video_url = "https://raw.githubusercontent.com/hyperpro/qoe_experiment_yihua_1/master/videos/" + vid_folder + "/";
 var best_quality = video_url + "1.mp4";
