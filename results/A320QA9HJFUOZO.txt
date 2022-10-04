@@ -1,0 +1,10 @@
+5,1,2,3,4,5
+1,2,4,6,5,3
+40853,33018,30723,28053,25275,26042
+10175,8561,4759,6753,4531,3983
+A320QA9HJFUOZO
+Desktop
+32 - 38
+WiFi
+The damage or pausing is more annoying in the middle of a video. I would prefer it be at the start, and then have smooth playback after. Also, I would prefer one longer pause or damage, to multiple shorter pauses or interruptions. Thanks.
+2,5,4,4,4,2

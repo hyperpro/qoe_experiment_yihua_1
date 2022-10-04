@@ -1,0 +1,10 @@
+5,1,1,2,4,5
+1,2,4,5,3,6
+37954,41729,28860,29851,25842,49408
+12672,23221,6047,11336,4587,5926
+A1NKBXOTZAI1YK
+Desktop
+32 - 38
+Cable network
+The resolution never degraded, to my eye at least.  Shorter pauses are less annoying than longer ones.  
+2,5,4,4,4,2
