@@ -1,0 +1,10 @@
+5,1,3,3,4,5
+1,2,6,4,3,5
+70465,34155,28648,28639,26621,28244
+22188,10082,10859,15614,10260,13405
+A26K8OELA8ZDI9
+Laptop
+32 - 38
+Cable network
+Quality that degrades towards the end is less likely to be annoying because the video is already over at that point. When a video stutters a lot its very annoying. When a video downgrades in quality its more annoying if it happens at the start because you have to watch an entire video with the downgrade
+2,5,4,4,4,2

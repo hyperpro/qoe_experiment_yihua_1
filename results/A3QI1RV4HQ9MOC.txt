@@ -1,0 +1,10 @@
+5,1,1,5,5,5
+1,2,4,5,3,6
+43402,74458,71478,34878,93068,71315
+5390,15251,6055,7725,6526,6061
+A3QI1RV4HQ9MOC
+Desktop
+25 - 31
+Cable network
+Clinical practice guidelines should be developed using rigorous evidence-based methodology with the strength of evidence for each guideline explicitly stated. Clinical practice guidelines should be feasible, measurable, and achievable.
+2,5,2,2,2,5

@@ -1,0 +1,10 @@
+5,1,2,2,4,5
+1,2,5,3,4,6
+120515,77651,31935,31875,51276,65019
+51511,47861,13427,15851,29542,12922
+A2UCKZZI9KBBCV
+Laptop
+46 - 52
+WiFi
+On the 3rd video, I noticed the black car had different colors in the middle of each tire - leading to think there was a manipulation on the video. I don't seem to catch any resolution decrease in all the videos in general. 
+2,5,4,4,2,2

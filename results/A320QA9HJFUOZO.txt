@@ -1,0 +1,10 @@
+5,1,3,3,3,5
+1,2,4,6,3,5
+40293,39133,31005,28138,24983,48637
+9110,4385,3894,7534,3981,11165
+A320QA9HJFUOZO
+Desktop
+32 - 38
+WiFi
+I don't like when damage is in the middle of the video, it is preferable at the start. Fewer pauses is better than more pauses, even if they are longer. It was hard to detect any quality degradation in the videos. It was easier to detect pauses.
+2,5,4,4,5,2
