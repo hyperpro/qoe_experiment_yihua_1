@@ -1,0 +1,10 @@
+5,1,3,2,2,3
+1,2,6,3,5,4
+226842,189741,80336,74146,61740,89991
+77230,46310,28560,65900,42199,66446
+A2ZX69756WSLQ4
+Laptop
+32 - 38
+WiFi
+The resolution decrease and video pauses in a video streaming makes us to get irritate while watching interesting videos. In the test some videos had 2 or more video pauses which decreases interest to view the full video. In car race videos like in the test videos video pause is very annoying. It will spoil video watching mood. And the guidelines in the experiment are clear and not confusing.
+2,5,4,4,5,4

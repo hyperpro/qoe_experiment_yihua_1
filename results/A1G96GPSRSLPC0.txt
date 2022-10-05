@@ -1,0 +1,10 @@
+5,1,2,1,2,4
+1,2,6,3,5,4
+89429,38616,47345,63972,29285,27224
+98404,10933,10308,7874,4778,8714
+A1G96GPSRSLPC0
+Desktop
+32 - 38
+Cable network
+yes experiment guideline is clear 
+2,5,5,5,5,2

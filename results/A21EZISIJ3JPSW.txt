@@ -1,0 +1,10 @@
+5,1,1,2,3,4
+1,2,5,4,6,3
+60982,37838,35953,33162,33541,36027
+20928,15035,17385,9283,13582,9502
+A21EZISIJ3JPSW
+Laptop
+39 - 45
+WiFi
+Overall, I didn't notice any graphic issues.  I did notice several pauses on each video.
+2,4,4,4,4,4
